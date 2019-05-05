@@ -2,12 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://goohwan4238.github.io/DocTest/blog</id>
     <title>Test Site Blog</title>
-    <updated>2017-10-24T06:00:00Z</updated>
+    <updated>2019-05-05T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://goohwan4238.github.io/DocTest/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Test Site news and events.</subtitle>
     <logo>https://goohwan4238.github.io/DocTest/img/favicon.ico</logo>
     <rights>Copyright © 2019 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"/>
+        <id>https://goohwan4238.github.io/DocTest/blog/2019/05/05/blog-post.html</id>
+        <link href="https://goohwan4238.github.io/DocTest/blog/2019/05/05/blog-post.html">
+        </link>
+        <updated>2019-05-05T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>dd</p> ]]></summary>
+        <author>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
         <id>https://goohwan4238.github.io/DocTest/blog/2017/10/24/new-version-1.0.0.html</id>

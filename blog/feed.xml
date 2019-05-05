@@ -4,7 +4,7 @@
         <title>Test Site Blog</title>
         <link>https://goohwan4238.github.io/DocTest/blog</link>
         <description>The best place to stay up-to-date with the latest Test Site news and events.</description>
-        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,12 @@
             <link>https://goohwan4238.github.io/DocTest/blog</link>
         </image>
         <copyright>Copyright © 2019 Your Name or Your Company Name</copyright>
+        <item>
+            <link>https://goohwan4238.github.io/DocTest/blog/2019/05/05/blog-post.html</link>
+            <guid>https://goohwan4238.github.io/DocTest/blog/2019/05/05/blog-post.html</guid>
+            <pubDate>Sun, 05 May 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>dd</p> ]]></description>
+        </item>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
             <link>https://goohwan4238.github.io/DocTest/blog/2017/10/24/new-version-1.0.0.html</link>
