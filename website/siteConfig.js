@@ -46,7 +46,7 @@ const siteConfig = {
 
   // If you have users set above, you add it here:
   users,
-
+  editUrl: 'https://github.com/goohwan4238/DocTest/edit/master/docs/',
   /* path to images for header/footer */
   headerIcon: 'img/favicon.ico',
   footerIcon: 'img/favicon.ico',
