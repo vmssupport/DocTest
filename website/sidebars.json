@@ -3,7 +3,7 @@
     "Docusaurus": [
       "doc1", 
       "doc3",
-      "DocStructureForm"
+      "DocFormStructure"
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
