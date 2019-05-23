@@ -1,4 +1,8 @@
-# 문서 형식 및 구조 # 
+---
+id: DocFormStructure
+title: 문서 형식 및 구조
+sidebar_label: VMS Guide Style
+---
 
 본 가이드는 사용자가 문서를 작성 시 참고하기 위한 문서 형식 및 구조에 대한 가이드입니다. 
 
@@ -23,8 +27,6 @@
 - 제목 및 Heading에는 줄, 폰트 스타일 변경(_Italic_, 색상 변경), Highlight등의 효과를 적용하지 않습니다. 
 
 여기서 `Batch Conversion to csv`는 MOZART Studio에 있는 기능 중 하나입니다. 해당 기능을 사용 시 열려있는 모델의 Input/Output 데이터를 일괄적으로 CSV 파일로 추출하는 기능입니다. 이러한 기능을 설명하는 내용에 대한 제목을 정해야 하는 경우 해당 기능이 어떤 용도로 사용되는지 독자가 알 수 있도록 구체적으로 작성해야 합니다. 
-
-#
 
 ## 목록(List) 작성 가이드 ## 
 
