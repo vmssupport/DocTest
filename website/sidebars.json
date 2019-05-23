@@ -2,7 +2,7 @@
   "docs": {
     "Docusaurus": [
       "doc1", 
-      "doc3"
+      "DocStructureForm"
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
