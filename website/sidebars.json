@@ -1,4 +1,8 @@
 {
+  "docs-guide: {
+  "VMS Guide Style": [
+  "DocFormStructure"
+  ],
   "docs": {
     "Docusaurus": [
       "doc1", 
