@@ -1,8 +1,4 @@
 {
-  "docs-guide: {
-  "VMS Guide Style": [
-  "DocFormStructure"
-  ],
   "docs": {
     "Docusaurus": [
       "doc1", 
@@ -13,5 +9,7 @@
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
-  }
+  },
+  "docs-guide": {
+  "VMS Guide Style": ["DocFormStructure"]
 }
